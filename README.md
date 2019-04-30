@@ -4,6 +4,8 @@
 3. url 입력 부분에 https://github.com/Moonkil/Moonkil.github.io.git 입력
 4. Name(이름에) 가입한 아이디를 활용하여 {아이디}.github.io 라는 이름으로 생성
 5. 퍼블릭으로 생성
+--> 이렇게 하고 나면, moonkil.github.io 라는 URL과 같이 접속할 수 있게 됩니다.
+    
 
 # 수정 방법
 index.html 파일의 내용을 수정
